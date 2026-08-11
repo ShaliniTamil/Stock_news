@@ -1,9 +1,7 @@
 # Stock_news
 Stock Market News sentiment Analysis using Word2Vec, Sentence Transformers, Random Forest and Neural Network
 
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/D94-Q8ry)
-
-Stock_news
+# Stock_news
 Stock Market News sentiment Analysis using Word2Vec, Sentence Transformers, Random Forest and Neural Network
 
 📈 Stock Market News Sentiment Analysis
